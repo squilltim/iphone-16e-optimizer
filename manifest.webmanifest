@@ -1,0 +1,15 @@
+{
+  "name": "iOptimize 16e",
+  "short_name": "iOptimize",
+  "description": "Full system optimizer & security monitor for iPhone 16e",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0a0f",
+  "theme_color": "#0a0a0f",
+  "categories": ["utilities","productivity"],
+  "icons": [],
+  "lang": "en",
+  "dir": "ltr"
+}
